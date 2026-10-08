@@ -11,7 +11,7 @@ int main(){
         sum += itemPrice[x];
     }
 
-    cout << "Sum of price: " << sum;
+    cout << "Sum of price: " << sum; 
 
     return 0;
 }
