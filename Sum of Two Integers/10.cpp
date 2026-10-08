@@ -10,7 +10,7 @@ int main(){
     bool flag=true;
 
     while(flag){
-        cout << "Enter your " << y << " day temperature [o if done]: ";
+        cout << "Enter your " << y << " day temperature [0 if done]: ";
         cin >> temp;
         if (temp!=0){
             sum+=temp;
