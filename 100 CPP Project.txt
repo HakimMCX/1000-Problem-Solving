@@ -1,15 +1,15 @@
 LEVEL 1: Basics (Input/Output, Variables, Operators)
 
-1. Personal Profile Printer
+1. Personal Profile Printer /
 Ask the user for their name, age, height (in metres) and favourite number. Print one neatly formatted paragraph using all four values. Use the correct data type for each (string, int, double).
 
-2. Basic Calculator
+2. Basic Calculator /
 Read two numbers and print their sum, difference, product, quotient and remainder. Show what happens when you divide two ints versus two doubles, and explain the difference in a comment.
 
-3. Temperature Converter
+3. Temperature Converter /
 Read a temperature in Celsius and convert it to Fahrenheit and Kelvin. Print results to exactly 2 decimal places using <iomanip>.
 
-4. Geometry Calculator
+4. Geometry Calculator /
 Calculate the area and perimeter of a rectangle, the area and circumference of a circle (use const double PI), and the area of a triangle given three sides (Heron's formula).
 
 5. Swap Three Ways
