@@ -11,14 +11,25 @@ int main(){
 
     if(num>0){
         if((num/2)==0){
-            
+            cout << "The integer is even number.";
+        }else{
+            cout << "The integer is odd number.";
         }
-        cout >> "Your number is positive real number.";
+        cout << "\nYour number is positive real number.";
     }else if(num==0){
-        cout >> "Your number is zero.";
+        if((num/2)==0){
+            cout << "The integer is even number.";
+        }else{
+            cout << "The integer is odd number.";
+        }
+        cout << "\nYour number is zero.";
     }else{
-        cout >> "Your number is negative real number.";
-
+        if((num/2)==0){
+            cout << "The integer is even number.";
+        }else{
+            cout << "The integer is odd number.";
+        }
+        cout << "\nYour number is negative real number.";
     }
     
     return 0;
